@@ -28,13 +28,13 @@ This project involves developing a system to automatically measure the crack gro
 
 ---
 
-## 2. Microcontroller Systems Course  
+## 2. Microprocessor Systems Course (MPS)  
 
 **Overview:**  
 A collection of tasks completed using STM32 microcontrollers, demonstrating my expertise in embedded systems design and development. 
 
 **Tech Stack:**  
-`STM32`, `C`, `UART`,`SPI`, `ADC&DAC`, `LCD Display`
+`STM32`, `C`, `UART`,`SPI`, `ADC&DAC`, `etc`
 
 ---
 
