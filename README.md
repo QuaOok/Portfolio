@@ -28,23 +28,10 @@ This project involves developing a system to automatically measure the crack gro
 
 ---
 
-## 2. Microcontroller Systems Course Project - Ping Pong Game  
+## 2. Microcontroller Systems Course  
 
 **Overview:**  
-A final project for a microcontroller systems course, where two STM32 microcontrollers communicate via UART to implement a ping-pong game.  
-
-**Key Features:**  
-- Displayed the game interface using an LCD screen.  
-- Synchronized two MCUs using UART communication for seamless gameplay.  
-- Incorporated button inputs for game control and score tracking.  
-
-**My Role:**  
-- Collaborated with a team of 2 and led the implementation of the UART communication protocol and LCD display.  
-- Designed and optimized real-time data exchange and game logic.  
-
-**Achievements:**  
-- Achieved smooth and reliable communication for uninterrupted gameplay.  
-- Strengthened skills in embedded systems design and software integration.  
+A collection of tasks completed using STM32 microcontrollers, demonstrating my expertise in embedded systems design and development. 
 
 **Tech Stack:**  
 `STM32`, `C`, `UART`,`SPI`, `ADC&DAC`, `LCD Display`
