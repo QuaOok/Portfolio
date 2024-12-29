@@ -1,4 +1,4 @@
-#include "Stepper_Motor_h"
+#include "Stepper_Motor.h"
 
 Motor::Motor(int pul, int dir, int steps)
 {
